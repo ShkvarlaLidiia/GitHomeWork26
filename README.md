@@ -1,2 +1,1 @@
-# GitHomeWork26
-Домашнє завдання 26 (Ш.Л.)
+my first repository on GitHub for SVN
