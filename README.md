@@ -1,1 +1,1 @@
-my first repository on GitHub for SVN
+my repository on GitHub for GIT
